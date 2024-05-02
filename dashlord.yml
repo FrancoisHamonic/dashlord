@@ -1,6 +1,6 @@
-title: DashLord example
+title: DashLord
 description: Bonnes pratiques techniques
-entity: Votre entité
+entity: Ille-et-Vilaine
 footer: Powered by SocialGouv
 marianne: false
 tools:
@@ -15,13 +15,13 @@ tools:
   thirdparties: true
   nuclei: true
   updownio: false
-  dependabot: true
-  codescan: true
+  dependabot: false
+  codescan: false
   stats: false
   declaration-a11y: true
   ecoindex: true
-  dsfr: true
-  betagouv: true
+  dsfr: false
+  betagouv: false
 columns: # pour masquer des colonnes
   zap: false
 updownioStatusPage: https://updown.io/status_pages
@@ -29,9 +29,4 @@ updownioRecipients:
   - email:123456
   - email:789987
 urls:
-  - url: https://www.fabrique.social.gouv.fr
-    repositories:
-      - socialgouv/www
-    docker:
-      - ghcr.io/socialgouv/fabrique/frontend
-  - url: https://beta.gouv.fr
+  - url: https://www.ille-et-vilaine.fr
