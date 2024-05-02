@@ -4,10 +4,10 @@ entity: Ille-et-Vilaine
 footer: Powered by SocialGouv
 marianne: false
 tools:
-  "404": true
+  "404": false
   screenshot: true
   nmap: true
-  zap: true
+  zap: false
   wappalyzer: true
   http: true
   testssl: true
