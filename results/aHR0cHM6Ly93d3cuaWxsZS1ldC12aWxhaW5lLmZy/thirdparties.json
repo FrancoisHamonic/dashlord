@@ -14,7 +14,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://illeetvilaine.matomo.cloud/matomo.php?action_name=%7C%20D%C3%A9partement%20Ille%20et%20Vilaine&idsite=1&rec=1&r=682899&h=0&m=58&s=6&url=https%3A%2F%2Fwww.ille-et-vilaine.fr%2F&_id=eb6d3a5996b38429&_idn=1&send_image=0&_refts=0&pv_id=yYyuWQ&pf_net=695&pf_srv=110&pf_tfr=84&pf_dm1=527&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
+      "url": "https://illeetvilaine.matomo.cloud/matomo.php?action_name=%7C%20D%C3%A9partement%20Ille%20et%20Vilaine&idsite=1&rec=1&r=345953&h=0&m=59&s=39&url=https%3A%2F%2Fwww.ille-et-vilaine.fr%2F&_id=64e33942fdefe4bc&_idn=1&send_image=0&_refts=0&pv_id=cokCYr&pf_net=794&pf_srv=136&pf_tfr=80&pf_dm1=504&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
     }
   ],
   "cookies": [
@@ -23,7 +23,7 @@
       "value": "1",
       "domain": "www.ille-et-vilaine.fr",
       "path": "/",
-      "expires": 1719106086,
+      "expires": 1719710979,
       "size": 15,
       "httpOnly": false,
       "secure": false,
@@ -35,10 +35,10 @@
     },
     {
       "name": "_pk_id.1.5d09",
-      "value": "eb6d3a5996b38429.1719104286.",
+      "value": "64e33942fdefe4bc.1719709179.",
       "domain": "www.ille-et-vilaine.fr",
       "path": "/",
-      "expires": 1753059486,
+      "expires": 1753664379,
       "size": 41,
       "httpOnly": false,
       "secure": false,
@@ -54,10 +54,10 @@
     "content-encoding": "gzip",
     "content-language": "fr",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 23 Jun 2024 00:58:05 GMT",
-    "etag": "\"1718965254-gzip\"",
+    "date": "Sun, 30 Jun 2024 00:59:38 GMT",
+    "etag": "\"1719583272-gzip\"",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
-    "last-modified": "Fri, 21 Jun 2024 10:20:54 GMT",
+    "last-modified": "Fri, 28 Jun 2024 14:01:12 GMT",
     "server": "nginx/1.14.2",
     "vary": "Cookie,Accept-Encoding",
     "x-content-type-options": "nosniff",
@@ -125,7 +125,7 @@
     },
     {
       "hostname": "cdn.matomo.cloud",
-      "ip": "108.138.106.116",
+      "ip": "18.160.249.47",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -199,7 +199,7 @@
     },
     {
       "hostname": "illeetvilaine.matomo.cloud",
-      "ip": "3.126.133.169",
+      "ip": "18.195.235.189",
       "geoip": {
         "city": {
           "geoname_id": 2925533,
