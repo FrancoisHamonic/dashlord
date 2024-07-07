@@ -5,6 +5,10 @@
       "url": "https://cdn.matomo.cloud/illeetvilaine.matomo.cloud/matomo.js"
     },
     {
+      "type": "unknown",
+      "url": "https://illeetvilaine.matomo.cloud/matomo.php?action_name=%7C%20D%C3%A9partement%20Ille%20et%20Vilaine&idsite=1&rec=1&r=989571&h=1&m=0&s=14&url=https%3A%2F%2Fwww.ille-et-vilaine.fr%2F&_id=5eac5d6cf53fb4a5&_idn=1&send_image=0&_refts=0&pv_id=40kWZy&fa_pv=1&fa_fp[0][fa_vid]=scPZf8&fa_fp[0][fa_fv]=1&pf_net=847&pf_srv=190&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
+    },
+    {
       "type": "cloudflare",
       "url": "https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.3/js/bootstrap.min.js",
       "details": {
@@ -14,7 +18,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://illeetvilaine.matomo.cloud/matomo.php?action_name=%7C%20D%C3%A9partement%20Ille%20et%20Vilaine&idsite=1&rec=1&r=345953&h=0&m=59&s=39&url=https%3A%2F%2Fwww.ille-et-vilaine.fr%2F&_id=64e33942fdefe4bc&_idn=1&send_image=0&_refts=0&pv_id=cokCYr&pf_net=794&pf_srv=136&pf_tfr=80&pf_dm1=504&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
+      "url": "https://illeetvilaine.matomo.cloud/matomo.php"
     }
   ],
   "cookies": [
@@ -23,7 +27,7 @@
       "value": "1",
       "domain": "www.ille-et-vilaine.fr",
       "path": "/",
-      "expires": 1719710979,
+      "expires": 1720315814,
       "size": 15,
       "httpOnly": false,
       "secure": false,
@@ -35,10 +39,10 @@
     },
     {
       "name": "_pk_id.1.5d09",
-      "value": "64e33942fdefe4bc.1719709179.",
+      "value": "5eac5d6cf53fb4a5.1720314014.",
       "domain": "www.ille-et-vilaine.fr",
       "path": "/",
-      "expires": 1753664379,
+      "expires": 1754269214,
       "size": 41,
       "httpOnly": false,
       "secure": false,
@@ -54,10 +58,10 @@
     "content-encoding": "gzip",
     "content-language": "fr",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 30 Jun 2024 00:59:38 GMT",
-    "etag": "\"1719583272-gzip\"",
+    "date": "Sun, 07 Jul 2024 01:00:13 GMT",
+    "etag": "\"1720174087-gzip\"",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
-    "last-modified": "Fri, 28 Jun 2024 14:01:12 GMT",
+    "last-modified": "Fri, 05 Jul 2024 10:08:07 GMT",
     "server": "nginx/1.14.2",
     "vary": "Cookie,Accept-Encoding",
     "x-content-type-options": "nosniff",
@@ -125,7 +129,7 @@
     },
     {
       "hostname": "cdn.matomo.cloud",
-      "ip": "18.160.249.47",
+      "ip": "18.155.192.55",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -161,26 +165,6 @@
           "longitude": -97.822,
           "time_zone": "America/Chicago"
         },
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
-      }
-    },
-    {
-      "hostname": "cdnjs.cloudflare.com",
-      "ip": "104.17.25.14",
-      "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -244,7 +228,7 @@
           }
         },
         "location": {
-          "accuracy_radius": 1000,
+          "accuracy_radius": 200,
           "latitude": 50.1187,
           "longitude": 8.6842,
           "time_zone": "Europe/Berlin"
@@ -282,6 +266,26 @@
             }
           }
         ]
+      }
+    },
+    {
+      "hostname": "cdnjs.cloudflare.com",
+      "ip": "104.17.24.14",
+      "geoip": {
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
       }
     }
   ]
