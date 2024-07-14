@@ -5,7 +5,7 @@
     "http": {
       "url": "https://www.ille-et-vilaine.fr",
       "algorithm_version": 3,
-      "end_time": "Sun, 07 Jul 2024 01:04:30 GMT",
+      "end_time": "Sun, 14 Jul 2024 01:05:15 GMT",
       "grade": "C",
       "hidden": false,
       "likelihood_indicator": "MEDIUM",
@@ -15,10 +15,10 @@
         "Content-Encoding": "gzip",
         "Content-Type": "text/html; charset=UTF-8",
         "Content-language": "fr",
-        "Date": "Sun, 07 Jul 2024 01:04:28 GMT",
-        "ETag": "\"1720174087-gzip\"",
+        "Date": "Sun, 14 Jul 2024 01:05:13 GMT",
+        "ETag": "\"1720772773-gzip\"",
         "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
-        "Last-Modified": "Fri, 05 Jul 2024 10:08:07 GMT",
+        "Last-Modified": "Fri, 12 Jul 2024 08:26:13 GMT",
         "Server": "nginx/1.14.2",
         "Transfer-Encoding": "chunked",
         "Vary": "Cookie,Accept-Encoding",
@@ -28,9 +28,9 @@
         "X-Frame-Options": "SAMEORIGIN",
         "X-Generator": "Drupal 10 (https://www.drupal.org)"
       },
-      "scan_id": 53122276,
+      "scan_id": 53366760,
       "score": 50,
-      "start_time": "Sun, 07 Jul 2024 01:04:27 GMT",
+      "start_time": "Sun, 14 Jul 2024 01:05:12 GMT",
       "state": "FINISHED",
       "status_code": 200,
       "tests_failed": 3,
@@ -198,10 +198,6 @@
           "url": "https://cdn.matomo.cloud/illeetvilaine.matomo.cloud/matomo.js"
         },
         {
-          "type": "unknown",
-          "url": "https://illeetvilaine.matomo.cloud/matomo.php?action_name=%7C%20D%C3%A9partement%20Ille%20et%20Vilaine&idsite=1&rec=1&r=989571&h=1&m=0&s=14&url=https%3A%2F%2Fwww.ille-et-vilaine.fr%2F&_id=5eac5d6cf53fb4a5&_idn=1&send_image=0&_refts=0&pv_id=40kWZy&fa_pv=1&fa_fp[0][fa_vid]=scPZf8&fa_fp[0][fa_fv]=1&pf_net=847&pf_srv=190&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
-        },
-        {
           "type": "cloudflare",
           "url": "https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.3/js/bootstrap.min.js",
           "details": {
@@ -211,7 +207,7 @@
         },
         {
           "type": "unknown",
-          "url": "https://illeetvilaine.matomo.cloud/matomo.php"
+          "url": "https://illeetvilaine.matomo.cloud/matomo.php?action_name=%7C%20D%C3%A9partement%20Ille%20et%20Vilaine&idsite=1&rec=1&r=483429&h=1&m=0&s=58&url=https%3A%2F%2Fwww.ille-et-vilaine.fr%2F&_id=db42e5deb1fcf581&_idn=1&send_image=0&_refts=0&pv_id=jGEL42&fa_pv=1&fa_fp[0][fa_vid]=oUdmxT&fa_fp[0][fa_fv]=1&fa_fp[1][fa_vid]=HCLCXl&fa_fp[1][fa_id]=search-block-form&fa_fp[1][fa_fv]=1&fa_fp[2][fa_vid]=1pYAjo&fa_fp[2][fa_id]=views-exposed-form-toutes-les-aides-du-departement-page-1&fa_fp[2][fa_fv]=1&pf_net=901&pf_srv=121&pf_tfr=94&pf_dm1=674&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
         }
       ],
       "cookies": [
@@ -220,7 +216,7 @@
           "value": "1",
           "domain": "www.ille-et-vilaine.fr",
           "path": "/",
-          "expires": 1720315814,
+          "expires": 1720920658,
           "size": 15,
           "httpOnly": false,
           "secure": false,
@@ -232,10 +228,10 @@
         },
         {
           "name": "_pk_id.1.5d09",
-          "value": "5eac5d6cf53fb4a5.1720314014.",
+          "value": "db42e5deb1fcf581.1720918859.",
           "domain": "www.ille-et-vilaine.fr",
           "path": "/",
-          "expires": 1754269214,
+          "expires": 1754874059,
           "size": 41,
           "httpOnly": false,
           "secure": false,
@@ -251,10 +247,10 @@
         "content-encoding": "gzip",
         "content-language": "fr",
         "content-type": "text/html; charset=UTF-8",
-        "date": "Sun, 07 Jul 2024 01:00:13 GMT",
-        "etag": "\"1720174087-gzip\"",
+        "date": "Sun, 14 Jul 2024 01:00:57 GMT",
+        "etag": "\"1720772773-gzip\"",
         "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
-        "last-modified": "Fri, 05 Jul 2024 10:08:07 GMT",
+        "last-modified": "Fri, 12 Jul 2024 08:26:13 GMT",
         "server": "nginx/1.14.2",
         "vary": "Cookie,Accept-Encoding",
         "x-content-type-options": "nosniff",
@@ -322,7 +318,7 @@
         },
         {
           "hostname": "cdn.matomo.cloud",
-          "ip": "18.155.192.55",
+          "ip": "18.160.249.47",
           "geoip": {
             "continent": {
               "code": "NA",
@@ -375,8 +371,28 @@
           }
         },
         {
+          "hostname": "cdnjs.cloudflare.com",
+          "ip": "104.17.24.14",
+          "geoip": {
+            "registered_country": {
+              "geoname_id": 6252001,
+              "iso_code": "US",
+              "names": {
+                "de": "USA",
+                "en": "United States",
+                "es": "Estados Unidos",
+                "fr": "États Unis",
+                "ja": "アメリカ",
+                "pt-BR": "EUA",
+                "ru": "США",
+                "zh-CN": "美国"
+              }
+            }
+          }
+        },
+        {
           "hostname": "illeetvilaine.matomo.cloud",
-          "ip": "18.195.235.189",
+          "ip": "18.157.122.248",
           "geoip": {
             "city": {
               "geoname_id": 2925533,
@@ -459,26 +475,6 @@
                 }
               }
             ]
-          }
-        },
-        {
-          "hostname": "cdnjs.cloudflare.com",
-          "ip": "104.17.24.14",
-          "geoip": {
-            "registered_country": {
-              "geoname_id": 6252001,
-              "iso_code": "US",
-              "names": {
-                "de": "USA",
-                "en": "United States",
-                "es": "Estados Unidos",
-                "fr": "États Unis",
-                "ja": "アメリカ",
-                "pt-BR": "EUA",
-                "ru": "США",
-                "zh-CN": "美国"
-              }
-            }
           }
         }
       ]
@@ -691,7 +687,7 @@
         "type": "dns",
         "host": "www.ille-et-vilaine.fr.",
         "matched-at": "www.ille-et-vilaine.fr",
-        "timestamp": "2024-06-30T01:11:48.645218914Z",
+        "timestamp": "2024-07-14T01:15:32.592362606Z",
         "matcher-status": true
       },
       {
@@ -721,7 +717,7 @@
           "GET, POST"
         ],
         "ip": "46.183.50.35",
-        "timestamp": "2024-06-30T01:12:17.069075686Z",
+        "timestamp": "2024-07-14T01:15:57.650654714Z",
         "curl-command": "curl -X 'OPTIONS' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.ille-et-vilaine.fr'",
         "matcher-status": true
       },
@@ -753,7 +749,7 @@
           "nginx/1.14.2"
         ],
         "ip": "46.183.50.35",
-        "timestamp": "2024-06-30T01:12:34.763935587Z",
+        "timestamp": "2024-07-14T01:16:27.069698072Z",
         "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.ille-et-vilaine.fr'",
         "matcher-status": true
       },
@@ -787,7 +783,7 @@
           "Drupal 10 (https://www.drupal.org)"
         ],
         "ip": "46.183.50.35",
-        "timestamp": "2024-06-30T01:14:43.025867669Z",
+        "timestamp": "2024-07-14T01:18:37.860600228Z",
         "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.ille-et-vilaine.fr'",
         "matcher-status": true
       },
@@ -815,7 +811,7 @@
         "host": "https://www.ille-et-vilaine.fr",
         "matched-at": "https://www.ille-et-vilaine.fr",
         "ip": "46.183.50.35",
-        "timestamp": "2024-06-30T01:14:43.275011723Z",
+        "timestamp": "2024-07-14T01:18:38.109068348Z",
         "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.ille-et-vilaine.fr'",
         "matcher-status": true
       },
@@ -843,7 +839,7 @@
         "host": "https://www.ille-et-vilaine.fr",
         "matched-at": "https://www.ille-et-vilaine.fr",
         "ip": "46.183.50.35",
-        "timestamp": "2024-06-30T01:14:43.275051141Z",
+        "timestamp": "2024-07-14T01:18:38.109104676Z",
         "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.ille-et-vilaine.fr'",
         "matcher-status": true
       },
@@ -885,7 +881,7 @@
         "host": "https://www.ille-et-vilaine.fr",
         "matched-at": "https://www.ille-et-vilaine.fr",
         "ip": "46.183.50.35",
-        "timestamp": "2024-06-30T01:15:03.316188427Z",
+        "timestamp": "2024-07-14T01:18:54.92518161Z",
         "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.ille-et-vilaine.fr'",
         "matcher-status": true
       },
@@ -917,229 +913,7 @@
         "host": "https://www.ille-et-vilaine.fr",
         "matched-at": "https://www.ille-et-vilaine.fr",
         "ip": "46.183.50.35",
-        "timestamp": "2024-06-30T01:15:21.363804956Z",
-        "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.ille-et-vilaine.fr'",
-        "matcher-status": true
-      },
-      {
-        "template": "http/misconfiguration/http-missing-security-headers.yaml",
-        "template-url": "https://templates.nuclei.sh/public/http-missing-security-headers",
-        "template-id": "http-missing-security-headers",
-        "template-path": "/home/runner/nuclei-templates/http/misconfiguration/http-missing-security-headers.yaml",
-        "info": {
-          "name": "HTTP Missing Security Headers",
-          "author": [
-            "socketz",
-            "geeknik",
-            "g4l1t0",
-            "convisoappsec",
-            "kurohost",
-            "dawid-czarnecki",
-            "forgedhallpass",
-            "jub0bs"
-          ],
-          "tags": [
-            "misconfig",
-            "headers",
-            "generic"
-          ],
-          "description": "This template searches for missing HTTP security headers. The impact of these missing headers can vary.\n",
-          "severity": "info",
-          "metadata": {
-            "max-request": 1
-          }
-        },
-        "matcher-name": "x-permitted-cross-domain-policies",
-        "type": "http",
-        "host": "https://www.ille-et-vilaine.fr",
-        "matched-at": "https://www.ille-et-vilaine.fr",
-        "ip": "46.183.50.35",
-        "timestamp": "2024-06-30T01:15:38.220202907Z",
-        "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.ille-et-vilaine.fr'",
-        "matcher-status": true
-      },
-      {
-        "template": "http/misconfiguration/http-missing-security-headers.yaml",
-        "template-url": "https://templates.nuclei.sh/public/http-missing-security-headers",
-        "template-id": "http-missing-security-headers",
-        "template-path": "/home/runner/nuclei-templates/http/misconfiguration/http-missing-security-headers.yaml",
-        "info": {
-          "name": "HTTP Missing Security Headers",
-          "author": [
-            "socketz",
-            "geeknik",
-            "g4l1t0",
-            "convisoappsec",
-            "kurohost",
-            "dawid-czarnecki",
-            "forgedhallpass",
-            "jub0bs"
-          ],
-          "tags": [
-            "misconfig",
-            "headers",
-            "generic"
-          ],
-          "description": "This template searches for missing HTTP security headers. The impact of these missing headers can vary.\n",
-          "severity": "info",
-          "metadata": {
-            "max-request": 1
-          }
-        },
-        "matcher-name": "cross-origin-embedder-policy",
-        "type": "http",
-        "host": "https://www.ille-et-vilaine.fr",
-        "matched-at": "https://www.ille-et-vilaine.fr",
-        "ip": "46.183.50.35",
-        "timestamp": "2024-06-30T01:15:38.220254041Z",
-        "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.ille-et-vilaine.fr'",
-        "matcher-status": true
-      },
-      {
-        "template": "http/misconfiguration/http-missing-security-headers.yaml",
-        "template-url": "https://templates.nuclei.sh/public/http-missing-security-headers",
-        "template-id": "http-missing-security-headers",
-        "template-path": "/home/runner/nuclei-templates/http/misconfiguration/http-missing-security-headers.yaml",
-        "info": {
-          "name": "HTTP Missing Security Headers",
-          "author": [
-            "socketz",
-            "geeknik",
-            "g4l1t0",
-            "convisoappsec",
-            "kurohost",
-            "dawid-czarnecki",
-            "forgedhallpass",
-            "jub0bs"
-          ],
-          "tags": [
-            "misconfig",
-            "headers",
-            "generic"
-          ],
-          "description": "This template searches for missing HTTP security headers. The impact of these missing headers can vary.\n",
-          "severity": "info",
-          "metadata": {
-            "max-request": 1
-          }
-        },
-        "matcher-name": "cross-origin-resource-policy",
-        "type": "http",
-        "host": "https://www.ille-et-vilaine.fr",
-        "matched-at": "https://www.ille-et-vilaine.fr",
-        "ip": "46.183.50.35",
-        "timestamp": "2024-06-30T01:15:38.220271263Z",
-        "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.ille-et-vilaine.fr'",
-        "matcher-status": true
-      },
-      {
-        "template": "http/misconfiguration/http-missing-security-headers.yaml",
-        "template-url": "https://templates.nuclei.sh/public/http-missing-security-headers",
-        "template-id": "http-missing-security-headers",
-        "template-path": "/home/runner/nuclei-templates/http/misconfiguration/http-missing-security-headers.yaml",
-        "info": {
-          "name": "HTTP Missing Security Headers",
-          "author": [
-            "socketz",
-            "geeknik",
-            "g4l1t0",
-            "convisoappsec",
-            "kurohost",
-            "dawid-czarnecki",
-            "forgedhallpass",
-            "jub0bs"
-          ],
-          "tags": [
-            "misconfig",
-            "headers",
-            "generic"
-          ],
-          "description": "This template searches for missing HTTP security headers. The impact of these missing headers can vary.\n",
-          "severity": "info",
-          "metadata": {
-            "max-request": 1
-          }
-        },
-        "matcher-name": "strict-transport-security",
-        "type": "http",
-        "host": "https://www.ille-et-vilaine.fr",
-        "matched-at": "https://www.ille-et-vilaine.fr",
-        "ip": "46.183.50.35",
-        "timestamp": "2024-06-30T01:15:38.220284938Z",
-        "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.ille-et-vilaine.fr'",
-        "matcher-status": true
-      },
-      {
-        "template": "http/misconfiguration/http-missing-security-headers.yaml",
-        "template-url": "https://templates.nuclei.sh/public/http-missing-security-headers",
-        "template-id": "http-missing-security-headers",
-        "template-path": "/home/runner/nuclei-templates/http/misconfiguration/http-missing-security-headers.yaml",
-        "info": {
-          "name": "HTTP Missing Security Headers",
-          "author": [
-            "socketz",
-            "geeknik",
-            "g4l1t0",
-            "convisoappsec",
-            "kurohost",
-            "dawid-czarnecki",
-            "forgedhallpass",
-            "jub0bs"
-          ],
-          "tags": [
-            "misconfig",
-            "headers",
-            "generic"
-          ],
-          "description": "This template searches for missing HTTP security headers. The impact of these missing headers can vary.\n",
-          "severity": "info",
-          "metadata": {
-            "max-request": 1
-          }
-        },
-        "matcher-name": "content-security-policy",
-        "type": "http",
-        "host": "https://www.ille-et-vilaine.fr",
-        "matched-at": "https://www.ille-et-vilaine.fr",
-        "ip": "46.183.50.35",
-        "timestamp": "2024-06-30T01:15:38.220297502Z",
-        "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.ille-et-vilaine.fr'",
-        "matcher-status": true
-      },
-      {
-        "template": "http/misconfiguration/http-missing-security-headers.yaml",
-        "template-url": "https://templates.nuclei.sh/public/http-missing-security-headers",
-        "template-id": "http-missing-security-headers",
-        "template-path": "/home/runner/nuclei-templates/http/misconfiguration/http-missing-security-headers.yaml",
-        "info": {
-          "name": "HTTP Missing Security Headers",
-          "author": [
-            "socketz",
-            "geeknik",
-            "g4l1t0",
-            "convisoappsec",
-            "kurohost",
-            "dawid-czarnecki",
-            "forgedhallpass",
-            "jub0bs"
-          ],
-          "tags": [
-            "misconfig",
-            "headers",
-            "generic"
-          ],
-          "description": "This template searches for missing HTTP security headers. The impact of these missing headers can vary.\n",
-          "severity": "info",
-          "metadata": {
-            "max-request": 1
-          }
-        },
-        "matcher-name": "permissions-policy",
-        "type": "http",
-        "host": "https://www.ille-et-vilaine.fr",
-        "matched-at": "https://www.ille-et-vilaine.fr",
-        "ip": "46.183.50.35",
-        "timestamp": "2024-06-30T01:15:38.220310335Z",
+        "timestamp": "2024-07-14T01:19:09.527820208Z",
         "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.ille-et-vilaine.fr'",
         "matcher-status": true
       },
@@ -1176,7 +950,7 @@
         "host": "https://www.ille-et-vilaine.fr",
         "matched-at": "https://www.ille-et-vilaine.fr",
         "ip": "46.183.50.35",
-        "timestamp": "2024-06-30T01:15:38.220323249Z",
+        "timestamp": "2024-07-14T01:19:26.860265454Z",
         "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.ille-et-vilaine.fr'",
         "matcher-status": true
       },
@@ -1213,7 +987,7 @@
         "host": "https://www.ille-et-vilaine.fr",
         "matched-at": "https://www.ille-et-vilaine.fr",
         "ip": "46.183.50.35",
-        "timestamp": "2024-06-30T01:15:38.220337977Z",
+        "timestamp": "2024-07-14T01:19:26.860330135Z",
         "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.ille-et-vilaine.fr'",
         "matcher-status": true
       },
@@ -1250,7 +1024,229 @@
         "host": "https://www.ille-et-vilaine.fr",
         "matched-at": "https://www.ille-et-vilaine.fr",
         "ip": "46.183.50.35",
-        "timestamp": "2024-06-30T01:15:38.220351592Z",
+        "timestamp": "2024-07-14T01:19:26.860346035Z",
+        "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.ille-et-vilaine.fr'",
+        "matcher-status": true
+      },
+      {
+        "template": "http/misconfiguration/http-missing-security-headers.yaml",
+        "template-url": "https://templates.nuclei.sh/public/http-missing-security-headers",
+        "template-id": "http-missing-security-headers",
+        "template-path": "/home/runner/nuclei-templates/http/misconfiguration/http-missing-security-headers.yaml",
+        "info": {
+          "name": "HTTP Missing Security Headers",
+          "author": [
+            "socketz",
+            "geeknik",
+            "g4l1t0",
+            "convisoappsec",
+            "kurohost",
+            "dawid-czarnecki",
+            "forgedhallpass",
+            "jub0bs"
+          ],
+          "tags": [
+            "misconfig",
+            "headers",
+            "generic"
+          ],
+          "description": "This template searches for missing HTTP security headers. The impact of these missing headers can vary.\n",
+          "severity": "info",
+          "metadata": {
+            "max-request": 1
+          }
+        },
+        "matcher-name": "strict-transport-security",
+        "type": "http",
+        "host": "https://www.ille-et-vilaine.fr",
+        "matched-at": "https://www.ille-et-vilaine.fr",
+        "ip": "46.183.50.35",
+        "timestamp": "2024-07-14T01:19:26.860360973Z",
+        "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.ille-et-vilaine.fr'",
+        "matcher-status": true
+      },
+      {
+        "template": "http/misconfiguration/http-missing-security-headers.yaml",
+        "template-url": "https://templates.nuclei.sh/public/http-missing-security-headers",
+        "template-id": "http-missing-security-headers",
+        "template-path": "/home/runner/nuclei-templates/http/misconfiguration/http-missing-security-headers.yaml",
+        "info": {
+          "name": "HTTP Missing Security Headers",
+          "author": [
+            "socketz",
+            "geeknik",
+            "g4l1t0",
+            "convisoappsec",
+            "kurohost",
+            "dawid-czarnecki",
+            "forgedhallpass",
+            "jub0bs"
+          ],
+          "tags": [
+            "misconfig",
+            "headers",
+            "generic"
+          ],
+          "description": "This template searches for missing HTTP security headers. The impact of these missing headers can vary.\n",
+          "severity": "info",
+          "metadata": {
+            "max-request": 1
+          }
+        },
+        "matcher-name": "x-permitted-cross-domain-policies",
+        "type": "http",
+        "host": "https://www.ille-et-vilaine.fr",
+        "matched-at": "https://www.ille-et-vilaine.fr",
+        "ip": "46.183.50.35",
+        "timestamp": "2024-07-14T01:19:26.860375219Z",
+        "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.ille-et-vilaine.fr'",
+        "matcher-status": true
+      },
+      {
+        "template": "http/misconfiguration/http-missing-security-headers.yaml",
+        "template-url": "https://templates.nuclei.sh/public/http-missing-security-headers",
+        "template-id": "http-missing-security-headers",
+        "template-path": "/home/runner/nuclei-templates/http/misconfiguration/http-missing-security-headers.yaml",
+        "info": {
+          "name": "HTTP Missing Security Headers",
+          "author": [
+            "socketz",
+            "geeknik",
+            "g4l1t0",
+            "convisoappsec",
+            "kurohost",
+            "dawid-czarnecki",
+            "forgedhallpass",
+            "jub0bs"
+          ],
+          "tags": [
+            "misconfig",
+            "headers",
+            "generic"
+          ],
+          "description": "This template searches for missing HTTP security headers. The impact of these missing headers can vary.\n",
+          "severity": "info",
+          "metadata": {
+            "max-request": 1
+          }
+        },
+        "matcher-name": "cross-origin-embedder-policy",
+        "type": "http",
+        "host": "https://www.ille-et-vilaine.fr",
+        "matched-at": "https://www.ille-et-vilaine.fr",
+        "ip": "46.183.50.35",
+        "timestamp": "2024-07-14T01:19:26.860388524Z",
+        "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.ille-et-vilaine.fr'",
+        "matcher-status": true
+      },
+      {
+        "template": "http/misconfiguration/http-missing-security-headers.yaml",
+        "template-url": "https://templates.nuclei.sh/public/http-missing-security-headers",
+        "template-id": "http-missing-security-headers",
+        "template-path": "/home/runner/nuclei-templates/http/misconfiguration/http-missing-security-headers.yaml",
+        "info": {
+          "name": "HTTP Missing Security Headers",
+          "author": [
+            "socketz",
+            "geeknik",
+            "g4l1t0",
+            "convisoappsec",
+            "kurohost",
+            "dawid-czarnecki",
+            "forgedhallpass",
+            "jub0bs"
+          ],
+          "tags": [
+            "misconfig",
+            "headers",
+            "generic"
+          ],
+          "description": "This template searches for missing HTTP security headers. The impact of these missing headers can vary.\n",
+          "severity": "info",
+          "metadata": {
+            "max-request": 1
+          }
+        },
+        "matcher-name": "cross-origin-resource-policy",
+        "type": "http",
+        "host": "https://www.ille-et-vilaine.fr",
+        "matched-at": "https://www.ille-et-vilaine.fr",
+        "ip": "46.183.50.35",
+        "timestamp": "2024-07-14T01:19:26.860405446Z",
+        "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.ille-et-vilaine.fr'",
+        "matcher-status": true
+      },
+      {
+        "template": "http/misconfiguration/http-missing-security-headers.yaml",
+        "template-url": "https://templates.nuclei.sh/public/http-missing-security-headers",
+        "template-id": "http-missing-security-headers",
+        "template-path": "/home/runner/nuclei-templates/http/misconfiguration/http-missing-security-headers.yaml",
+        "info": {
+          "name": "HTTP Missing Security Headers",
+          "author": [
+            "socketz",
+            "geeknik",
+            "g4l1t0",
+            "convisoappsec",
+            "kurohost",
+            "dawid-czarnecki",
+            "forgedhallpass",
+            "jub0bs"
+          ],
+          "tags": [
+            "misconfig",
+            "headers",
+            "generic"
+          ],
+          "description": "This template searches for missing HTTP security headers. The impact of these missing headers can vary.\n",
+          "severity": "info",
+          "metadata": {
+            "max-request": 1
+          }
+        },
+        "matcher-name": "content-security-policy",
+        "type": "http",
+        "host": "https://www.ille-et-vilaine.fr",
+        "matched-at": "https://www.ille-et-vilaine.fr",
+        "ip": "46.183.50.35",
+        "timestamp": "2024-07-14T01:19:26.860419822Z",
+        "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.ille-et-vilaine.fr'",
+        "matcher-status": true
+      },
+      {
+        "template": "http/misconfiguration/http-missing-security-headers.yaml",
+        "template-url": "https://templates.nuclei.sh/public/http-missing-security-headers",
+        "template-id": "http-missing-security-headers",
+        "template-path": "/home/runner/nuclei-templates/http/misconfiguration/http-missing-security-headers.yaml",
+        "info": {
+          "name": "HTTP Missing Security Headers",
+          "author": [
+            "socketz",
+            "geeknik",
+            "g4l1t0",
+            "convisoappsec",
+            "kurohost",
+            "dawid-czarnecki",
+            "forgedhallpass",
+            "jub0bs"
+          ],
+          "tags": [
+            "misconfig",
+            "headers",
+            "generic"
+          ],
+          "description": "This template searches for missing HTTP security headers. The impact of these missing headers can vary.\n",
+          "severity": "info",
+          "metadata": {
+            "max-request": 1
+          }
+        },
+        "matcher-name": "permissions-policy",
+        "type": "http",
+        "host": "https://www.ille-et-vilaine.fr",
+        "matched-at": "https://www.ille-et-vilaine.fr",
+        "ip": "46.183.50.35",
+        "timestamp": "2024-07-14T01:19:26.86043468Z",
         "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.ille-et-vilaine.fr'",
         "matcher-status": true
       },
@@ -1280,37 +1276,8 @@
         "host": "https://www.ille-et-vilaine.fr",
         "matched-at": "https://www.ille-et-vilaine.fr/README.md",
         "ip": "46.183.50.35",
-        "timestamp": "2024-06-30T01:16:10.54718105Z",
+        "timestamp": "2024-07-14T01:20:00.63677386Z",
         "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.ille-et-vilaine.fr/README.md'",
-        "matcher-status": true
-      },
-      {
-        "template": "http/miscellaneous/robots-txt.yaml",
-        "template-url": "https://templates.nuclei.sh/public/robots-txt",
-        "template-id": "robots-txt",
-        "template-path": "/home/runner/nuclei-templates/http/miscellaneous/robots-txt.yaml",
-        "info": {
-          "name": "robots.txt file",
-          "author": [
-            "caspergn",
-            "thezakman"
-          ],
-          "tags": [
-            "miscellaneous",
-            "misc",
-            "generic"
-          ],
-          "severity": "info",
-          "metadata": {
-            "max-request": 1
-          }
-        },
-        "type": "http",
-        "host": "https://www.ille-et-vilaine.fr",
-        "matched-at": "https://www.ille-et-vilaine.fr/robots.txt",
-        "ip": "46.183.50.35",
-        "timestamp": "2024-06-30T01:16:26.677349888Z",
-        "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.ille-et-vilaine.fr/robots.txt'",
         "matcher-status": true
       },
       {
@@ -1338,7 +1305,36 @@
         "host": "https://www.ille-et-vilaine.fr",
         "matched-at": "https://www.ille-et-vilaine.fr/robots.txt",
         "ip": "46.183.50.35",
-        "timestamp": "2024-06-30T01:16:30.704877473Z",
+        "timestamp": "2024-07-14T01:20:14.309615053Z",
+        "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.ille-et-vilaine.fr/robots.txt'",
+        "matcher-status": true
+      },
+      {
+        "template": "http/miscellaneous/robots-txt.yaml",
+        "template-url": "https://templates.nuclei.sh/public/robots-txt",
+        "template-id": "robots-txt",
+        "template-path": "/home/runner/nuclei-templates/http/miscellaneous/robots-txt.yaml",
+        "info": {
+          "name": "robots.txt file",
+          "author": [
+            "caspergn",
+            "thezakman"
+          ],
+          "tags": [
+            "miscellaneous",
+            "misc",
+            "generic"
+          ],
+          "severity": "info",
+          "metadata": {
+            "max-request": 1
+          }
+        },
+        "type": "http",
+        "host": "https://www.ille-et-vilaine.fr",
+        "matched-at": "https://www.ille-et-vilaine.fr/robots.txt",
+        "ip": "46.183.50.35",
+        "timestamp": "2024-07-14T01:20:14.396292943Z",
         "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.ille-et-vilaine.fr/robots.txt'",
         "matcher-status": true
       },
@@ -1375,7 +1371,7 @@
           "https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.3/js/bootstrap.min.js"
         ],
         "ip": "46.183.50.35",
-        "timestamp": "2024-06-30T01:16:53.607034877Z",
+        "timestamp": "2024-07-14T01:20:44.781444852Z",
         "curl-command": "curl -X 'GET' -d '' -H 'Host: www.ille-et-vilaine.fr' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.ille-et-vilaine.fr/'",
         "matcher-status": true
       },
@@ -1404,7 +1400,7 @@
         "host": "https://www.ille-et-vilaine.fr",
         "matched-at": "https://www.ille-et-vilaine.fr",
         "ip": "46.183.50.35",
-        "timestamp": "2024-06-30T01:17:17.099932708Z",
+        "timestamp": "2024-07-14T01:21:05.62014631Z",
         "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.ille-et-vilaine.fr'",
         "matcher-status": true
       },
@@ -1433,7 +1429,7 @@
         "host": "https://www.ille-et-vilaine.fr",
         "matched-at": "https://www.ille-et-vilaine.fr/CHANGELOG.txt",
         "ip": "46.183.50.35",
-        "timestamp": "2024-06-30T01:17:18.616707562Z",
+        "timestamp": "2024-07-14T01:21:06.237970662Z",
         "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.ille-et-vilaine.fr/CHANGELOG.txt'",
         "matcher-status": true
       },
@@ -1462,7 +1458,7 @@
         "host": "https://www.ille-et-vilaine.fr",
         "matched-at": "https://www.ille-et-vilaine.fr/core/install.php",
         "ip": "46.183.50.35",
-        "timestamp": "2024-06-30T01:17:24.922123729Z",
+        "timestamp": "2024-07-14T01:21:12.74530967Z",
         "curl-command": "curl -X 'GET' -H 'Accept: */*' -H 'Accept-Language: en' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.ille-et-vilaine.fr/core/install.php'",
         "matcher-status": true
       },
@@ -1502,7 +1498,7 @@
         "host": "https://www.ille-et-vilaine.fr",
         "matched-at": "https://www.ille-et-vilaine.fr/",
         "ip": "46.183.50.35",
-        "timestamp": "2024-06-30T01:17:33.538415216Z",
+        "timestamp": "2024-07-14T01:21:21.310212032Z",
         "curl-command": "curl -X 'POST' -d '_=<script>alert(1)</script>' -H 'Content-Type: application/x-www-form-urlencoded' -H 'Host: www.ille-et-vilaine.fr' -H 'User-Agent: Nuclei - Open-source project (github.com/projectdiscovery/nuclei)' 'https://www.ille-et-vilaine.fr/'",
         "matcher-status": true
       },
@@ -1533,7 +1529,7 @@
           "GlobalSign nv-sa"
         ],
         "ip": "46.183.50.35",
-        "timestamp": "2024-06-30T01:20:46.592607651Z",
+        "timestamp": "2024-07-14T01:24:34.735010675Z",
         "matcher-status": true
       },
       {
@@ -1564,7 +1560,7 @@
           "ille-et-vilaine.fr"
         ],
         "ip": "46.183.50.35",
-        "timestamp": "2024-06-30T01:20:46.592739677Z",
+        "timestamp": "2024-07-14T01:24:34.735146849Z",
         "matcher-status": true
       },
       {
@@ -1595,11 +1591,11 @@
         "host": "www.ille-et-vilaine.fr",
         "matched-at": "www.ille-et-vilaine.fr:443",
         "extracted-results": [
-          "CN: *.ille-et-vilaine.fr",
-          " SAN: [*.ille-et-vilaine.fr ille-et-vilaine.fr]"
+          " SAN: [*.ille-et-vilaine.fr ille-et-vilaine.fr]",
+          "CN: *.ille-et-vilaine.fr"
         ],
         "ip": "46.183.50.35",
-        "timestamp": "2024-06-30T01:20:46.592786705Z",
+        "timestamp": "2024-07-14T01:24:34.735194047Z",
         "matcher-status": true
       },
       {
@@ -1630,7 +1626,7 @@
           "tls13"
         ],
         "ip": "46.183.50.35",
-        "timestamp": "2024-06-30T01:20:51.340726977Z",
+        "timestamp": "2024-07-14T01:24:47.507394844Z",
         "matcher-status": true
       }
     ],
@@ -1638,7 +1634,7 @@
       {
         "requestedUrl": "https://www.ille-et-vilaine.fr/",
         "finalUrl": "https://www.ille-et-vilaine.fr/",
-        "fetchTime": "2024-07-07T01:04:14.814Z",
+        "fetchTime": "2024-07-14T01:05:00.885Z",
         "runWarnings": [],
         "categories": {
           "performance": {
@@ -1649,7 +1645,7 @@
               "snapshot"
             ],
             "id": "performance",
-            "score": 0.77
+            "score": 0.89
           },
           "accessibility": {
             "title": "Accessibility",
@@ -1701,53 +1697,53 @@
             "description": "Collects all available metrics.",
             "score": null,
             "scoreDisplayMode": "informative",
-            "numericValue": 3275,
+            "numericValue": 3272,
             "numericUnit": "millisecond",
             "details": {
               "type": "debugdata",
               "items": [
                 {
-                  "firstContentfulPaint": 2232,
-                  "firstMeaningfulPaint": 2232,
-                  "largestContentfulPaint": 4403,
-                  "interactive": 3275,
-                  "speedIndex": 3064,
-                  "totalBlockingTime": 242,
-                  "maxPotentialFID": 292,
+                  "firstContentfulPaint": 1898,
+                  "firstMeaningfulPaint": 1898,
+                  "largestContentfulPaint": 3559,
+                  "interactive": 3272,
+                  "speedIndex": 2308,
+                  "totalBlockingTime": 44,
+                  "maxPotentialFID": 94,
                   "cumulativeLayoutShift": 0.000039171006944444445,
                   "cumulativeLayoutShiftMainFrame": 0.000039171006944444445,
                   "totalCumulativeLayoutShift": 0.000039171006944444445,
                   "observedTimeOrigin": 0,
-                  "observedTimeOriginTs": 765427399,
+                  "observedTimeOriginTs": 444031918,
                   "observedNavigationStart": 0,
-                  "observedNavigationStartTs": 765427399,
-                  "observedFirstPaint": 1185,
-                  "observedFirstPaintTs": 766611995,
-                  "observedFirstContentfulPaint": 1185,
-                  "observedFirstContentfulPaintTs": 766611995,
-                  "observedFirstContentfulPaintAllFrames": 1185,
-                  "observedFirstContentfulPaintAllFramesTs": 766611995,
-                  "observedFirstMeaningfulPaint": 1185,
-                  "observedFirstMeaningfulPaintTs": 766611995,
-                  "observedLargestContentfulPaint": 1359,
-                  "observedLargestContentfulPaintTs": 766786726,
-                  "observedLargestContentfulPaintAllFrames": 1359,
-                  "observedLargestContentfulPaintAllFramesTs": 766786726,
-                  "observedTraceEnd": 4366,
-                  "observedTraceEndTs": 769793555,
-                  "observedLoad": 2059,
-                  "observedLoadTs": 767486409,
-                  "observedDomContentLoaded": 1179,
-                  "observedDomContentLoadedTs": 766606108,
+                  "observedNavigationStartTs": 444031918,
+                  "observedFirstPaint": 805,
+                  "observedFirstPaintTs": 444837133,
+                  "observedFirstContentfulPaint": 805,
+                  "observedFirstContentfulPaintTs": 444837133,
+                  "observedFirstContentfulPaintAllFrames": 805,
+                  "observedFirstContentfulPaintAllFramesTs": 444837133,
+                  "observedFirstMeaningfulPaint": 805,
+                  "observedFirstMeaningfulPaintTs": 444837133,
+                  "observedLargestContentfulPaint": 954,
+                  "observedLargestContentfulPaintTs": 444985583,
+                  "observedLargestContentfulPaintAllFrames": 954,
+                  "observedLargestContentfulPaintAllFramesTs": 444985583,
+                  "observedTraceEnd": 3615,
+                  "observedTraceEndTs": 447646896,
+                  "observedLoad": 1305,
+                  "observedLoadTs": 445336866,
+                  "observedDomContentLoaded": 822,
+                  "observedDomContentLoadedTs": 444854187,
                   "observedCumulativeLayoutShift": 0.000039171006944444445,
                   "observedCumulativeLayoutShiftMainFrame": 0.000039171006944444445,
                   "observedTotalCumulativeLayoutShift": 0.000039171006944444445,
-                  "observedFirstVisualChange": 1158,
-                  "observedFirstVisualChangeTs": 766585399,
-                  "observedLastVisualChange": 1775,
-                  "observedLastVisualChangeTs": 767202399,
-                  "observedSpeedIndex": 1331,
-                  "observedSpeedIndexTs": 766758328
+                  "observedFirstVisualChange": 800,
+                  "observedFirstVisualChangeTs": 444831918,
+                  "observedLastVisualChange": 1416,
+                  "observedLastVisualChangeTs": 445447918,
+                  "observedSpeedIndex": 946,
+                  "observedSpeedIndexTs": 444977867
                 },
                 {
                   "lcpInvalidated": false
@@ -1769,19 +1765,19 @@
                   "numScripts": 4,
                   "numStylesheets": 3,
                   "numFonts": 1,
-                  "numTasks": 530,
-                  "numTasksOver10ms": 5,
-                  "numTasksOver25ms": 4,
-                  "numTasksOver50ms": 3,
+                  "numTasks": 520,
+                  "numTasksOver10ms": 3,
+                  "numTasksOver25ms": 2,
+                  "numTasksOver50ms": 0,
                   "numTasksOver100ms": 0,
                   "numTasksOver500ms": 0,
-                  "rtt": 1.8770000000000007,
-                  "throughput": 2879042.0714635574,
-                  "maxRtt": 162.097,
-                  "maxServerLatency": 70.30299999999997,
-                  "totalByteWeight": 455151,
-                  "totalTaskTime": 295.0889999999995,
-                  "mainDocumentTransferSize": 14196
+                  "rtt": 1.9000000000000004,
+                  "throughput": 5497653.925214576,
+                  "maxRtt": 109.18799999999999,
+                  "maxServerLatency": 698.747,
+                  "totalByteWeight": 466032,
+                  "totalTaskTime": 156.4489999999995,
+                  "mainDocumentTransferSize": 14193
                 }
               ]
             }
@@ -1804,7 +1800,7 @@
         "width": 1920,
         "height": 1080,
         "url": "https://www.ille-et-vilaine.fr",
-        "size": 702.376,
+        "size": 693.822,
         "nodes": 714,
         "requests": 25,
         "grade": "C",
@@ -1812,7 +1808,7 @@
         "ges": 1.76,
         "water": 2.64,
         "ecoindex_version": "5.4.2",
-        "date": "2024-07-07 01:01:16.677095",
+        "date": "2024-07-14 01:02:00.098584",
         "page_type": null
       }
     ],
@@ -1823,9 +1819,9 @@
       "cookiesGrade": "B",
       "cookiesCount": 2,
       "trackersGrade": "C",
-      "trackersCount": 4,
-      "lighthouse_performance": 0.77,
-      "lighthouse_performanceGrade": "B",
+      "trackersCount": 3,
+      "lighthouse_performance": 0.89,
+      "lighthouse_performanceGrade": "A",
       "lighthouse_accessibility": 0.91,
       "lighthouse_accessibilityGrade": "A",
       "lighthouse_best-practices": 1,
