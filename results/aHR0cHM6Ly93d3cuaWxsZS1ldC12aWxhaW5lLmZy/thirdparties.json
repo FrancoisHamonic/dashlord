@@ -5,10 +5,6 @@
       "url": "https://cdn.matomo.cloud/illeetvilaine.matomo.cloud/matomo.js"
     },
     {
-      "type": "unknown",
-      "url": "https://illeetvilaine.matomo.cloud/matomo.php?action_name=%7C%20D%C3%A9partement%20Ille%20et%20Vilaine&idsite=1&rec=1&r=320092&h=1&m=1&s=2&url=https%3A%2F%2Fwww.ille-et-vilaine.fr%2F&_id=7272b8a953897ddd&_idn=1&send_image=0&_refts=0&pv_id=NsBCVd&fa_pv=1&fa_fp[0][fa_vid]=gz9lcQ&fa_fp[0][fa_fv]=1&pf_net=699&pf_srv=114&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
-    },
-    {
       "type": "cloudflare",
       "url": "https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.3/js/bootstrap.min.js",
       "details": {
@@ -18,7 +14,7 @@
     },
     {
       "type": "unknown",
-      "url": "https://illeetvilaine.matomo.cloud/matomo.php"
+      "url": "https://illeetvilaine.matomo.cloud/matomo.php?action_name=%7C%20D%C3%A9partement%20Ille%20et%20Vilaine&idsite=1&rec=1&r=493245&h=1&m=1&s=29&url=https%3A%2F%2Fwww.ille-et-vilaine.fr%2F&_id=b1c64cbc28dd9a87&_idn=1&send_image=0&_refts=0&pv_id=0KqCGq&fa_pv=1&fa_fp[0][fa_vid]=sfphp9&fa_fp[0][fa_fv]=1&fa_fp[1][fa_vid]=etk2oE&fa_fp[1][fa_id]=search-block-form&fa_fp[1][fa_fv]=1&fa_fp[2][fa_vid]=yPkR8L&fa_fp[2][fa_id]=views-exposed-form-toutes-les-aides-du-departement-page-1&fa_fp[2][fa_fv]=1&pf_net=1119&pf_srv=186&pf_tfr=143&pf_dm1=803&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
     }
   ],
   "cookies": [
@@ -27,7 +23,7 @@
       "value": "1",
       "domain": "www.ille-et-vilaine.fr",
       "path": "/",
-      "expires": 1722130263,
+      "expires": 1722735089,
       "size": 15,
       "httpOnly": false,
       "secure": false,
@@ -39,10 +35,10 @@
     },
     {
       "name": "_pk_id.1.5d09",
-      "value": "7272b8a953897ddd.1722128463.",
+      "value": "b1c64cbc28dd9a87.1722733290.",
       "domain": "www.ille-et-vilaine.fr",
       "path": "/",
-      "expires": 1756083663,
+      "expires": 1756688490,
       "size": 41,
       "httpOnly": false,
       "secure": false,
@@ -58,10 +54,10 @@
     "content-encoding": "gzip",
     "content-language": "fr",
     "content-type": "text/html; charset=UTF-8",
-    "date": "Sun, 28 Jul 2024 01:01:02 GMT",
-    "etag": "\"1721984516-gzip\"",
+    "date": "Sun, 04 Aug 2024 01:01:28 GMT",
+    "etag": "\"1722604101-gzip\"",
     "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
-    "last-modified": "Fri, 26 Jul 2024 09:01:56 GMT",
+    "last-modified": "Fri, 02 Aug 2024 13:08:21 GMT",
     "server": "nginx/1.14.2",
     "vary": "Cookie,Accept-Encoding",
     "x-content-type-options": "nosniff",
@@ -129,7 +125,7 @@
     },
     {
       "hostname": "cdn.matomo.cloud",
-      "ip": "3.162.125.95",
+      "ip": "13.227.74.123",
       "geoip": {
         "continent": {
           "code": "NA",
@@ -165,6 +161,26 @@
           "longitude": -97.822,
           "time_zone": "America/Chicago"
         },
+        "registered_country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        }
+      }
+    },
+    {
+      "hostname": "cdnjs.cloudflare.com",
+      "ip": "104.17.25.14",
+      "geoip": {
         "registered_country": {
           "geoname_id": 6252001,
           "iso_code": "US",
@@ -266,26 +282,6 @@
             }
           }
         ]
-      }
-    },
-    {
-      "hostname": "cdnjs.cloudflare.com",
-      "ip": "104.17.25.14",
-      "geoip": {
-        "registered_country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        }
       }
     }
   ]
