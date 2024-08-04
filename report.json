@@ -5,7 +5,7 @@
     "http": {
       "url": "https://www.ille-et-vilaine.fr",
       "algorithm_version": 3,
-      "end_time": "Sun, 21 Jul 2024 01:04:34 GMT",
+      "end_time": "Sun, 04 Aug 2024 01:05:46 GMT",
       "grade": "C",
       "hidden": false,
       "likelihood_indicator": "MEDIUM",
@@ -15,10 +15,10 @@
         "Content-Encoding": "gzip",
         "Content-Type": "text/html; charset=UTF-8",
         "Content-language": "fr",
-        "Date": "Sun, 21 Jul 2024 01:04:33 GMT",
-        "ETag": "\"1721382740-gzip\"",
+        "Date": "Sun, 04 Aug 2024 01:05:45 GMT",
+        "ETag": "\"1722604101-gzip\"",
         "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
-        "Last-Modified": "Fri, 19 Jul 2024 09:52:20 GMT",
+        "Last-Modified": "Fri, 02 Aug 2024 13:08:21 GMT",
         "Server": "nginx/1.14.2",
         "Transfer-Encoding": "chunked",
         "Vary": "Cookie,Accept-Encoding",
@@ -28,14 +28,14 @@
         "X-Frame-Options": "SAMEORIGIN",
         "X-Generator": "Drupal 10 (https://www.drupal.org)"
       },
-      "scan_id": 53613756,
+      "scan_id": 54079938,
       "score": 50,
-      "start_time": "Sun, 21 Jul 2024 01:04:31 GMT",
+      "start_time": "Sun, 04 Aug 2024 01:05:43 GMT",
       "state": "FINISHED",
       "status_code": 200,
       "tests_failed": 3,
-      "tests_passed": 8,
-      "tests_quantity": 11,
+      "tests_passed": 7,
+      "tests_quantity": 10,
       "details": {
         "content-security-policy": {
           "expectation": "csp-implemented-with-no-unsafe",
@@ -51,17 +51,6 @@
           "result": "csp-not-implemented",
           "score_description": "Content Security Policy (CSP) header not implemented",
           "score_modifier": -25
-        },
-        "contribute": {
-          "expectation": "contribute-json-only-required-on-mozilla-properties",
-          "name": "contribute",
-          "output": {
-            "data": null
-          },
-          "pass": true,
-          "result": "contribute-json-only-required-on-mozilla-properties",
-          "score_description": "Contribute.json isn't required on websites that don't belong to Mozilla",
-          "score_modifier": 0
         },
         "cookies": {
           "expectation": "cookies-secure-with-httponly-sessions",
@@ -198,10 +187,6 @@
           "url": "https://cdn.matomo.cloud/illeetvilaine.matomo.cloud/matomo.js"
         },
         {
-          "type": "unknown",
-          "url": "https://illeetvilaine.matomo.cloud/matomo.php?action_name=%7C%20D%C3%A9partement%20Ille%20et%20Vilaine&idsite=1&rec=1&r=320092&h=1&m=1&s=2&url=https%3A%2F%2Fwww.ille-et-vilaine.fr%2F&_id=7272b8a953897ddd&_idn=1&send_image=0&_refts=0&pv_id=NsBCVd&fa_pv=1&fa_fp[0][fa_vid]=gz9lcQ&fa_fp[0][fa_fv]=1&pf_net=699&pf_srv=114&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
-        },
-        {
           "type": "cloudflare",
           "url": "https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.3/js/bootstrap.min.js",
           "details": {
@@ -211,7 +196,7 @@
         },
         {
           "type": "unknown",
-          "url": "https://illeetvilaine.matomo.cloud/matomo.php"
+          "url": "https://illeetvilaine.matomo.cloud/matomo.php?action_name=%7C%20D%C3%A9partement%20Ille%20et%20Vilaine&idsite=1&rec=1&r=493245&h=1&m=1&s=29&url=https%3A%2F%2Fwww.ille-et-vilaine.fr%2F&_id=b1c64cbc28dd9a87&_idn=1&send_image=0&_refts=0&pv_id=0KqCGq&fa_pv=1&fa_fp[0][fa_vid]=sfphp9&fa_fp[0][fa_fv]=1&fa_fp[1][fa_vid]=etk2oE&fa_fp[1][fa_id]=search-block-form&fa_fp[1][fa_fv]=1&fa_fp[2][fa_vid]=yPkR8L&fa_fp[2][fa_id]=views-exposed-form-toutes-les-aides-du-departement-page-1&fa_fp[2][fa_fv]=1&pf_net=1119&pf_srv=186&pf_tfr=143&pf_dm1=803&uadata=%7B%22fullVersionList%22%3A%5B%5D%2C%22mobile%22%3Afalse%2C%22model%22%3A%22%22%2C%22platform%22%3A%22%22%2C%22platformVersion%22%3A%22%22%7D&cookie=1&res=800x600"
         }
       ],
       "cookies": [
@@ -220,7 +205,7 @@
           "value": "1",
           "domain": "www.ille-et-vilaine.fr",
           "path": "/",
-          "expires": 1722130263,
+          "expires": 1722735089,
           "size": 15,
           "httpOnly": false,
           "secure": false,
@@ -232,10 +217,10 @@
         },
         {
           "name": "_pk_id.1.5d09",
-          "value": "7272b8a953897ddd.1722128463.",
+          "value": "b1c64cbc28dd9a87.1722733290.",
           "domain": "www.ille-et-vilaine.fr",
           "path": "/",
-          "expires": 1756083663,
+          "expires": 1756688490,
           "size": 41,
           "httpOnly": false,
           "secure": false,
@@ -251,10 +236,10 @@
         "content-encoding": "gzip",
         "content-language": "fr",
         "content-type": "text/html; charset=UTF-8",
-        "date": "Sun, 28 Jul 2024 01:01:02 GMT",
-        "etag": "\"1721984516-gzip\"",
+        "date": "Sun, 04 Aug 2024 01:01:28 GMT",
+        "etag": "\"1722604101-gzip\"",
         "expires": "Sun, 19 Nov 1978 05:00:00 GMT",
-        "last-modified": "Fri, 26 Jul 2024 09:01:56 GMT",
+        "last-modified": "Fri, 02 Aug 2024 13:08:21 GMT",
         "server": "nginx/1.14.2",
         "vary": "Cookie,Accept-Encoding",
         "x-content-type-options": "nosniff",
@@ -322,7 +307,7 @@
         },
         {
           "hostname": "cdn.matomo.cloud",
-          "ip": "3.162.125.95",
+          "ip": "13.227.74.123",
           "geoip": {
             "continent": {
               "code": "NA",
@@ -358,6 +343,26 @@
               "longitude": -97.822,
               "time_zone": "America/Chicago"
             },
+            "registered_country": {
+              "geoname_id": 6252001,
+              "iso_code": "US",
+              "names": {
+                "de": "USA",
+                "en": "United States",
+                "es": "Estados Unidos",
+                "fr": "États Unis",
+                "ja": "アメリカ",
+                "pt-BR": "EUA",
+                "ru": "США",
+                "zh-CN": "美国"
+              }
+            }
+          }
+        },
+        {
+          "hostname": "cdnjs.cloudflare.com",
+          "ip": "104.17.25.14",
+          "geoip": {
             "registered_country": {
               "geoname_id": 6252001,
               "iso_code": "US",
@@ -459,26 +464,6 @@
                 }
               }
             ]
-          }
-        },
-        {
-          "hostname": "cdnjs.cloudflare.com",
-          "ip": "104.17.25.14",
-          "geoip": {
-            "registered_country": {
-              "geoname_id": 6252001,
-              "iso_code": "US",
-              "names": {
-                "de": "USA",
-                "en": "United States",
-                "es": "Estados Unidos",
-                "fr": "États Unis",
-                "ja": "アメリカ",
-                "pt-BR": "EUA",
-                "ru": "США",
-                "zh-CN": "美国"
-              }
-            }
           }
         }
       ]
@@ -1638,7 +1623,7 @@
       {
         "requestedUrl": "https://www.ille-et-vilaine.fr/",
         "finalUrl": "https://www.ille-et-vilaine.fr/",
-        "fetchTime": "2024-07-28T01:05:01.450Z",
+        "fetchTime": "2024-08-04T01:05:31.271Z",
         "runWarnings": [],
         "categories": {
           "performance": {
@@ -1649,7 +1634,7 @@
               "snapshot"
             ],
             "id": "performance",
-            "score": 0.83
+            "score": 0.74
           },
           "accessibility": {
             "title": "Accessibility",
@@ -1701,53 +1686,53 @@
             "description": "Collects all available metrics.",
             "score": null,
             "scoreDisplayMode": "informative",
-            "numericValue": 2783,
+            "numericValue": 3900,
             "numericUnit": "millisecond",
             "details": {
               "type": "debugdata",
               "items": [
                 {
-                  "firstContentfulPaint": 2061,
-                  "firstMeaningfulPaint": 2061,
-                  "largestContentfulPaint": 4235,
-                  "interactive": 2783,
-                  "speedIndex": 2383,
-                  "totalBlockingTime": 55,
-                  "maxPotentialFID": 105,
+                  "firstContentfulPaint": 2244,
+                  "firstMeaningfulPaint": 2244,
+                  "largestContentfulPaint": 4429,
+                  "interactive": 3900,
+                  "speedIndex": 3122,
+                  "totalBlockingTime": 306,
+                  "maxPotentialFID": 255,
                   "cumulativeLayoutShift": 0.000039171006944444445,
                   "cumulativeLayoutShiftMainFrame": 0.000039171006944444445,
                   "totalCumulativeLayoutShift": 0.000039171006944444445,
                   "observedTimeOrigin": 0,
-                  "observedTimeOriginTs": 700144888,
+                  "observedTimeOriginTs": 478306903,
                   "observedNavigationStart": 0,
-                  "observedNavigationStartTs": 700144888,
-                  "observedFirstPaint": 815,
-                  "observedFirstPaintTs": 700960219,
-                  "observedFirstContentfulPaint": 815,
-                  "observedFirstContentfulPaintTs": 700960219,
-                  "observedFirstContentfulPaintAllFrames": 815,
-                  "observedFirstContentfulPaintAllFramesTs": 700960219,
-                  "observedFirstMeaningfulPaint": 815,
-                  "observedFirstMeaningfulPaintTs": 700960219,
-                  "observedLargestContentfulPaint": 931,
-                  "observedLargestContentfulPaintTs": 701076134,
-                  "observedLargestContentfulPaintAllFrames": 931,
-                  "observedLargestContentfulPaintAllFramesTs": 701076134,
-                  "observedTraceEnd": 3740,
-                  "observedTraceEndTs": 703885368,
-                  "observedLoad": 1433,
-                  "observedLoadTs": 701577925,
-                  "observedDomContentLoaded": 791,
-                  "observedDomContentLoadedTs": 700935530,
+                  "observedNavigationStartTs": 478306903,
+                  "observedFirstPaint": 1218,
+                  "observedFirstPaintTs": 479525034,
+                  "observedFirstContentfulPaint": 1218,
+                  "observedFirstContentfulPaintTs": 479525034,
+                  "observedFirstContentfulPaintAllFrames": 1218,
+                  "observedFirstContentfulPaintAllFramesTs": 479525034,
+                  "observedFirstMeaningfulPaint": 1218,
+                  "observedFirstMeaningfulPaintTs": 479525034,
+                  "observedLargestContentfulPaint": 1389,
+                  "observedLargestContentfulPaintTs": 479696170,
+                  "observedLargestContentfulPaintAllFrames": 1389,
+                  "observedLargestContentfulPaintAllFramesTs": 479696170,
+                  "observedTraceEnd": 4441,
+                  "observedTraceEndTs": 482748194,
+                  "observedLoad": 2132,
+                  "observedLoadTs": 480439124,
+                  "observedDomContentLoaded": 1267,
+                  "observedDomContentLoadedTs": 479574233,
                   "observedCumulativeLayoutShift": 0.000039171006944444445,
                   "observedCumulativeLayoutShiftMainFrame": 0.000039171006944444445,
                   "observedTotalCumulativeLayoutShift": 0.000039171006944444445,
-                  "observedFirstVisualChange": 777,
-                  "observedFirstVisualChangeTs": 700921888,
-                  "observedLastVisualChange": 1443,
-                  "observedLastVisualChangeTs": 701587888,
-                  "observedSpeedIndex": 924,
-                  "observedSpeedIndexTs": 701068623
+                  "observedFirstVisualChange": 1173,
+                  "observedFirstVisualChangeTs": 479479903,
+                  "observedLastVisualChange": 2140,
+                  "observedLastVisualChangeTs": 480446903,
+                  "observedSpeedIndex": 1367,
+                  "observedSpeedIndexTs": 479673479
                 },
                 {
                   "lcpInvalidated": false
@@ -1769,19 +1754,19 @@
                   "numScripts": 4,
                   "numStylesheets": 3,
                   "numFonts": 1,
-                  "numTasks": 534,
-                  "numTasksOver10ms": 5,
+                  "numTasks": 544,
+                  "numTasksOver10ms": 7,
                   "numTasksOver25ms": 4,
-                  "numTasksOver50ms": 1,
-                  "numTasksOver100ms": 0,
+                  "numTasksOver50ms": 3,
+                  "numTasksOver100ms": 1,
                   "numTasksOver500ms": 0,
-                  "rtt": 5.640000000000001,
-                  "throughput": 6957846.284288793,
-                  "maxRtt": 97.111,
-                  "maxServerLatency": 71.141,
-                  "totalByteWeight": 459524,
-                  "totalTaskTime": 220.5749999999988,
-                  "mainDocumentTransferSize": 14167
+                  "rtt": 1.9660000000000002,
+                  "throughput": 2935176.6606273847,
+                  "maxRtt": 164.107,
+                  "maxServerLatency": 71.12799999999999,
+                  "totalByteWeight": 459492,
+                  "totalTaskTime": 386.415999999999,
+                  "mainDocumentTransferSize": 14166
                 }
               ]
             }
@@ -1804,7 +1789,7 @@
         "width": 1920,
         "height": 1080,
         "url": "https://www.ille-et-vilaine.fr",
-        "size": 687.176,
+        "size": 687.102,
         "nodes": 714,
         "requests": 25,
         "grade": "C",
@@ -1812,7 +1797,7 @@
         "ges": 1.76,
         "water": 2.64,
         "ecoindex_version": "5.4.2",
-        "date": "2024-07-28 01:02:02.909222",
+        "date": "2024-08-04 01:02:32.619317",
         "page_type": null
       }
     ],
@@ -1823,8 +1808,8 @@
       "cookiesGrade": "B",
       "cookiesCount": 2,
       "trackersGrade": "C",
-      "trackersCount": 4,
-      "lighthouse_performance": 0.83,
+      "trackersCount": 3,
+      "lighthouse_performance": 0.74,
       "lighthouse_performanceGrade": "B",
       "lighthouse_accessibility": 0.91,
       "lighthouse_accessibilityGrade": "A",
